@@ -3,7 +3,10 @@
 
 <p align="center">
   <strong>Data Mining Course Project</strong><br>
-  Network telemetry analysis · Classification · Model comparison · Interactive prediction
+  Network telemetry analysis · Classification · Model comparison · Interactive prediction<br>
+  MD Rayhan<br>
+  232031030<br>
+  CSE - 31 (UG)
 </p>
 
 ---
